@@ -1,0 +1,114 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #E5E5E5;
+}
+.container{
+	margin: auto;
+	width: 960px;
+	height: 650px;
+	padding: 5px;
+	background: #F3F5FC;
+}
+.logo{
+	width: 100%;
+	float: left;
+	background: #F3F5FC;
+}
+.left{
+	float: left;
+	width: 70%;
+	height: 70%;
+	border-radius: 24px;
+	background: #F3F5FC;
+}
+.right{
+	float: right;
+	border-radius: 24px;
+	width: 30%;
+	height: auto;
+	background: white;
+}
+.left-button{
+	float: left;
+	width: 70%;
+	height: auto;
+	border-radius: 24px;
+	background: #F3F5FC;
+}
+.logo-img{
+	margin-top: 1%;
+	margin-left: 5%;
+	float: inherit;
+}
+.encabezado{
+	float: inherit;
+	margin-left: 15%;
+}
+.text-input{
+	float: left;
+	margin-left: 10%;
+	margin-top: 10%;
+	width: 80%;
+	height: 80%;
+	color: #0A3871;
+	font-size: 20px;
+	border: none;
+	outline: none;
+	background: #F3F5FC;
+}
+#img-derecha{
+	margin-top: 20%;
+	margin-left: 6%;
+	width: 90%;
+	height: auto;
+}
+#texto-derecha{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#texto-derecha-abajo{
+	float: left;
+	margin-left: 10%;
+	color: #0A3871;
+	width: 80%;
+	height: 60%;
+	outline: none;
+	border: none;	
+	font-size: 15px;
+}
+#btn-encriptar{
+	padding: 24px;
+	width: 30%;
+	height: 60%;
+	border-radius: 24px;
+	margin-left: 15%;
+	background: #0A3871;
+	color: white;
+	
+}
+#btn-desencriptar{
+	padding: 24px;
+	width: 30%;
+	height: 60%;
+	border-radius: 24px;
+	margin-left: 10%;
+	background: #D8DFE8;
+}
+#admiracion{
+	float: left;
+	margin-left: 5%;
+	margin-right: 2%;
+	width: 5%;
+}
+#btn-copiar{
+	margin-left: 33%;
+	margin-top: 90%;
+	padding: 24px;
+	width: 40%;
+	height: 10%;
+	background: #D8DFE8;
+	border-radius: 24px;
+	display: none;
+}
